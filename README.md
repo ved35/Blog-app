@@ -1,4 +1,4 @@
-# 📝 Ved's Blog - Full-Stack Blogging Platform
+# 📝 Parth's Blog - Full-Stack Blogging Platform
 
 A modern, feature-rich blogging platform built with React, Node.js, and MongoDB. This application provides a complete blogging experience with user authentication, content management, and interactive features.
 
@@ -9,7 +9,7 @@ A modern, feature-rich blogging platform built with React, Node.js, and MongoDB.
 
 ## 🎯 Project Overview
 
-**Ved's Blog** is a comprehensive blogging platform that enables users to create, manage, and interact with blog posts. The application features a modern UI with dark/light theme support, real-time content management, and robust user authentication.
+**Parth's Blog** is a comprehensive blogging platform that enables users to create, manage, and interact with blog posts. The application features a modern UI with dark/light theme support, real-time content management, and robust user authentication.
 
 ### ✨ Key Features
 
@@ -258,7 +258,7 @@ This project is licensed under the ISC License.
 
 ## 👨‍💻 Author
 
-**Ved** - Full-Stack Developer
+**Parth** - Full-Stack Developer
 
 ## 🙏 Acknowledgments
 

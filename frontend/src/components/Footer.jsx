@@ -14,7 +14,7 @@ const FooterCom = () => {
               className="self-center whitespace-nowrap text-lg sm:text-xl font-semibold dark:text-white"
             >
               <span className="px-2 py-1 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-lg text-white">
-                Ved's
+                Parth's
               </span>
               Blog
             </Link>
@@ -35,7 +35,7 @@ const FooterCom = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Ved's Bolg
+                  Parth's Bolg
                 </Footer.Link>
               </Footer.LinkGroup>
             </div>
@@ -50,7 +50,7 @@ const FooterCom = () => {
                   YouTube
                 </Footer.Link>
                 <Footer.Link href="#" target="_blank" rel="noopener noreferrer">
-                  Ved's Bolg
+                  Parth's Bolg
                 </Footer.Link>
               </Footer.LinkGroup>
             </div>
@@ -67,7 +67,7 @@ const FooterCom = () => {
         <div className="sm:flex sm:flex-row sm:justify-between sm:items-center">
           <Footer.Copyright 
             href="#"
-            by="Ved's blog"
+            by="Parth's blog"
             year={new Date().getFullYear()}
           />
           <div className="flex gap-6 justify-center mt-5 sm:mt-0">
